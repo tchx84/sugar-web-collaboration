@@ -1,0 +1,6 @@
+{
+  "name": "sugar-web-server",
+  "version": "0.0.1",
+  "description": "sugar-web collaboration server",
+  "dependencies": {"socket.io": "1.0.2"}
+}
